@@ -1,0 +1,88 @@
+{
+  "languages": [
+      {
+        "language": "cn",
+        "seq": "1",
+        "lanName": "中文",
+        "voices": [
+          {
+            "source": "microsoft",
+            "seq": "1",
+            "voiceName": "小晓",
+            "voiceId": "zh-CN-XiaoxiaoNeural",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoxiaoNeural.mp3",
+            "gender": "female",
+            "tie": 1
+          },
+          {
+            "source": "microsoft",
+            "seq": "2",
+            "voiceName": "云希",
+            "voiceId": "zh-CN-YunxiNeural",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiNeural.mp3",
+            "gender": "male",
+            "tie": 1
+          },
+          {
+            "source": "doubao",
+            "seq": "3",
+            "voiceName": "温柔桃子",
+            "voiceId": "zh_female_wenroutaozi_v2_mars_bigtts",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_female_wenroutaozi_v2_mars_bigtts.aac",
+            "gender": "female",
+            "tie": 2
+          },
+          {
+            "source": "doubao",
+            "seq": "4",
+            "voiceName": "少年梓辛",
+            "voiceId": "zh_male_m286_conversation_wvae_bigtts",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_m286_conversation_wvae_bigtts.aac",
+            "gender": "male",
+            "tie": 2
+          },
+          {
+            "source": "doubao",
+            "seq": "5",
+            "voiceName": "京腔侃爷",
+            "voiceId": "zh_male_M392_conversation_wvae_bigtts",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_M392_conversation_wvae_bigtts.aac",
+            "gender": "male",
+            "tie": 2
+          }
+        ]
+      },
+      {
+        "language": "fr",
+        "seq": "3",
+        "lanName": "Français",
+        "voices": [
+          {
+            "source": "microsoft",
+            "seq": "1",
+            "voiceName": "法语一",
+            "voiceId": "fr-FR-DeniseNeural",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/fr-FR-DeniseNeural.mp3",
+            "gender": "female",
+            "tie": 1
+          }
+        ]
+      },
+      {
+        "language": "ja",
+        "seq": "2",
+        "lanName": "日本語",
+        "voices": [
+          {
+            "source": "microsoft",
+            "seq": "1",
+            "voiceName": "日语一",
+            "voiceId": "ja-JP-NanamiNeural",
+            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ja-JP-NanamiNeural.mp3",
+            "gender": "male",
+            "tie": 1
+          }
+        ]
+      }
+    ]
+}
