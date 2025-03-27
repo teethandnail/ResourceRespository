@@ -1,89 +1,161 @@
 {
-  "languages": [
-      {
-        "language": "cn",
-        "seq": "1",
-        "lanName": "中文",
-        "voices": [
-          {
-            "source": "microsoft",
+    "languages": [
+        {
+            "language": "cn",
             "seq": "1",
-            "voiceName": "小晓",
-            "voiceId": "zh-CN-XiaoxiaoNeural",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoxiaoNeural.mp3",
-            "gender": "female",
-            "tie": 1
-          },
-          {
-            "source": "microsoft",
-            "seq": "2",
-            "voiceName": "云希",
-            "voiceId": "zh-CN-YunxiNeural",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiNeural.mp3",
-            "gender": "male",
-            "tie": 1
-          },
-          {
-            "source": "doubao",
+            "lanName": "中文",
+            "voices": [
+                {
+                    "source": "microsoft",
+                    "seq": "1",
+                    "voiceName": "小晓",
+                    "voiceId": "zh-CN-XiaoxiaoNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoxiaoNeural.mp3",
+                    "gender": "female",
+                    "tie": 1
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "2",
+                    "voiceName": "云希",
+                    "voiceId": "zh-CN-YunxiNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiNeural.mp3",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "3",
+                    "voiceName": "温柔桃子",
+                    "voiceId": "zh_female_wenroutaozi_v2_mars_bigtts",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_female_wenroutaozi_v2_mars_bigtts.aac",
+                    "gender": "female",
+                    "tie": 2
+                },
+                {
+                    "source": "doubao",
+                    "seq": "4",
+                    "voiceName": "少年梓辛",
+                    "voiceId": "zh_male_m286_conversation_wvae_bigtts",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_m286_conversation_wvae_bigtts.aac",
+                    "gender": "male",
+                    "tie": 2
+                },
+                {
+                    "source": "doubao",
+                    "seq": "5",
+                    "voiceName": "京腔侃爷",
+                    "voiceId": "zh_male_M392_conversation_wvae_bigtts",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_M392_conversation_wvae_bigtts.aac",
+                    "gender": "male",
+                    "tie": 2
+                },
+                {
+                    "source": "doubao",
+                    "seq": "6",
+                    "voiceName": "太乙道尊",
+                    "voiceId": "zh_male_taiyizhenren",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_taiyizhenren.aac",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "7",
+                    "voiceName": "藕霸小童",
+                    "voiceId": "zh_male_nezha",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_nezha.aac",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "8",
+                    "voiceName": "猴哥",
+                    "voiceId": "zh_male_sunwukong_clone2",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_sunwukong_clone2.aac",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "9",
+                    "voiceName": "幽默唐僧",
+                    "voiceId": "ICL_68a5a6bc5110",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ICL_68a5a6bc5110.aac",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "10",
+                    "voiceName": "妩媚御姐",
+                    "voiceId": "ICL_da05661f8c64",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ICL_da05661f8c64.aac",
+                    "gender": "female",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "11",
+                    "voiceName": "魅力女友",
+                    "voiceId": "zh_female_meilinvyou_wvae_bigtts",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_female_meilinvyou_wvae_bigtts.aac",
+                    "gender": "female",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "12",
+                    "voiceName": "柔美女友",
+                    "voiceId": "zh_female_sajiaonvyou_wvae_bigtts",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_female_sajiaonvyou_wvae_bigtts.aac",
+                    "gender": "female",
+                    "tie": 1
+                },
+                {
+                    "source": "doubao",
+                    "seq": "13",
+                    "voiceName": "精灵向导",
+                    "voiceId": "ICL_1beb294a9e3e",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ICL_1beb294a9e3e.aac",
+                    "gender": "female",
+                    "tie": 1
+                }
+            ]
+        },
+        {
+            "language": "fr",
             "seq": "3",
-            "voiceName": "温柔桃子",
-            "voiceId": "zh_female_wenroutaozi_v2_mars_bigtts",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_female_wenroutaozi_v2_mars_bigtts.aac",
-            "gender": "female",
-            "tie": 2
-          },
-          {
-            "source": "doubao",
-            "seq": "4",
-            "voiceName": "少年梓辛",
-            "voiceId": "zh_male_m286_conversation_wvae_bigtts",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_m286_conversation_wvae_bigtts.aac",
-            "gender": "male",
-            "tie": 2
-          },
-          {
-            "source": "doubao",
-            "seq": "5",
-            "voiceName": "京腔侃爷",
-            "voiceId": "zh_male_M392_conversation_wvae_bigtts",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh_male_M392_conversation_wvae_bigtts.aac",
-            "gender": "male",
-            "tie": 2
-          }
-        ]
-      },
-      {
-        "language": "fr",
-        "seq": "3",
-        "lanName": "Français",
-        "voices": [
-          {
-            "source": "microsoft",
-            "seq": "1",
-            "voiceName": "法语一",
-            "voiceId": "fr-FR-DeniseNeural",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/fr-FR-DeniseNeural.mp3",
-            "gender": "female",
-            "tie": 1
-          }
-        ]
-      },
-      {
-        "language": "ja",
-        "seq": "2",
-        "lanName": "日本語",
-        "voices": [
-          {
-            "source": "microsoft",
-            "seq": "1",
-            "voiceName": "日语一",
-            "voiceId": "ja-JP-NanamiNeural",
-            "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ja-JP-NanamiNeural.mp3",
-            "gender": "male",
-            "tie": 1
-          }
-        ]
-      }
+            "lanName": "Français",
+            "voices": [
+                {
+                    "source": "microsoft",
+                    "seq": "1",
+                    "voiceName": "法语一",
+                    "voiceId": "fr-FR-DeniseNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/fr-FR-DeniseNeural.mp3",
+                    "gender": "female",
+                    "tie": 1
+                }
+            ]
+        },
+        {
+            "language": "ja",
+            "seq": "2",
+            "lanName": "日本語",
+            "voices": [
+                {
+                    "source": "microsoft",
+                    "seq": "1",
+                    "voiceName": "日语一",
+                    "voiceId": "ja-JP-NanamiNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ja-JP-NanamiNeural.mp3",
+                    "gender": "male",
+                    "tie": 1
+                }
+            ]
+        }
     ],
-  "version":"2025032301"
+    "version": "2025032701"
 }
