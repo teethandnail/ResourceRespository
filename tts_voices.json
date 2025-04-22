@@ -24,6 +24,42 @@
                     "tie": 1
                 },
                 {
+                    "source": "microsoft",
+                    "seq": "3",
+                    "voiceName": "云扬",
+                    "voiceId": "zh-CN-YunyangNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunyangNeural.mp3",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "3",
+                    "voiceName": "小艺",
+                    "voiceId": "zh-CN-XiaoyiNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoyiNeural.mp3",
+                    "gender": "female",
+                    "tie": 1
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "3",
+                    "voiceName": "云夏",
+                    "voiceId": "zh-CN-YunxiaNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiaNeural.mp3",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "3",
+                    "voiceName": "云健",
+                    "voiceId": "zh-CN-YunjianNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunjianNeural.mp3",
+                    "gender": "male",
+                    "tie": 1
+                },
+                {
                     "source": "doubao",
                     "seq": "3",
                     "voiceName": "温柔桃子",
@@ -157,5 +193,5 @@
             ]
         }
     ],
-    "version": "2025032701"
+    "version": "2025042201"
 }
