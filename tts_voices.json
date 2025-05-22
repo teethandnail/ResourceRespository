@@ -12,7 +12,8 @@
                     "voiceId": "zh-CN-XiaoxiaoNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoxiaoNeural.mp3",
                     "gender": "female",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_1.png"
                 },
                 {
                     "source": "microsoft",
@@ -21,7 +22,8 @@
                     "voiceId": "zh-CN-YunxiNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiNeural.mp3",
                     "gender": "male",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_1.png"
                 },
                 {
                     "source": "microsoft",
@@ -30,7 +32,8 @@
                     "voiceId": "zh-CN-YunyangNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunyangNeural.mp3",
                     "gender": "male",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_3.png"
                 },
                 {
                     "source": "microsoft",
@@ -39,7 +42,8 @@
                     "voiceId": "zh-CN-XiaoyiNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoyiNeural.mp3",
                     "gender": "female",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_2.png"
                 },
                 {
                     "source": "microsoft",
@@ -48,7 +52,8 @@
                     "voiceId": "zh-CN-YunxiaNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiaNeural.mp3",
                     "gender": "male",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_2.png"
                 },
                 {
                     "source": "microsoft",
@@ -57,7 +62,8 @@
                     "voiceId": "zh-CN-YunjianNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunjianNeural.mp3",
                     "gender": "male",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_4.png"
                 }
             ]
         },
@@ -73,7 +79,8 @@
                     "voiceId": "fr-FR-DeniseNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/fr-FR-DeniseNeural.mp3",
                     "gender": "female",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_2.png"
                 }
             ]
         },
@@ -89,10 +96,11 @@
                     "voiceId": "ja-JP-NanamiNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/ja-JP-NanamiNeural.mp3",
                     "gender": "male",
-                    "tie": 1
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_4.png"
                 }
             ]
         }
     ],
-    "version": "2025051101"
+    "version": "2025052201"
 }
