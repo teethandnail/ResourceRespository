@@ -37,7 +37,7 @@
                 },
                 {
                     "source": "microsoft",
-                    "seq": "3",
+                    "seq": "4",
                     "voiceName": "小艺",
                     "voiceId": "zh-CN-XiaoyiNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-XiaoyiNeural.mp3",
@@ -47,7 +47,7 @@
                 },
                 {
                     "source": "microsoft",
-                    "seq": "3",
+                    "seq": "5",
                     "voiceName": "云夏",
                     "voiceId": "zh-CN-YunxiaNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunxiaNeural.mp3",
@@ -57,13 +57,83 @@
                 },
                 {
                     "source": "microsoft",
-                    "seq": "3",
+                    "seq": "6",
                     "voiceName": "云健",
                     "voiceId": "zh-CN-YunjianNeural",
                     "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-YunjianNeural.mp3",
                     "gender": "male",
                     "tie": 1,
                     "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_4.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "7",
+                    "voiceName": "晓妮(西安)",
+                    "voiceId": "zh-CN-shaanxi-XiaoniNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-shaanxi-XiaoniNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_4.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "8",
+                    "voiceName": "小蓓(东北)",
+                    "voiceId": "zh-CN-liaoning-XiaobeiNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-CN-liaoning-XiaobeiNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_5.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "9",
+                    "voiceName": "筱珍(台湾)",
+                    "voiceId": "zh-TW-HsiaoChenNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-TW-HsiaoChenNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_6.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "10",
+                    "voiceName": "云哲(台湾)",
+                    "voiceId": "zh-TW-YunJheNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-TW-YunJheNeural.mp3",
+                    "gender": "male",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_5.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "11",
+                    "voiceName": "晓佳(粤语)",
+                    "voiceId": "zh-HK-HiuGaaiNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-HK-HiuGaaiNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_7.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "12",
+                    "voiceName": "晓曼(粤语)",
+                    "voiceId": "zh-HK-HiuMaanNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-HK-HiuMaanNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/woman_8.png"
+                },
+                {
+                    "source": "microsoft",
+                    "seq": "13",
+                    "voiceName": "伟伦(粤语)",
+                    "voiceId": "zh-HK-WanLungNeural",
+                    "demoUrl": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/zh-HK-WanLungNeural.mp3",
+                    "gender": "female",
+                    "tie": 1,
+                    "photo": "https://raw.githubusercontent.com/teethandnail/ResourceRespository/main/man_6.png"
                 }
             ]
         },
@@ -102,5 +172,5 @@
             ]
         }
     ],
-    "version": "2025052201"
+    "version": "2025053001"
 }
